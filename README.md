@@ -1,9 +1,9 @@
 ## install packages
- npm install
+ - npm install
 
 ## to start application and to check the result in console
-   cd app
-   node readfile.js
+  - cd app
+  - node readfile.js
 
 ## to run test cases
-   npm test (@ root directory)
+  - npm test (@ root directory)
